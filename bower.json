@@ -1,0 +1,31 @@
+{
+  "name": "bitcore-payment-protocol-zelcash",
+  "main": "./bitcore-payment-protocol-zelcash.min.js",
+  "version": "1.1.1",
+  "homepage": "https://github.com/TheTrunk/bitcore-payment-protocol-zelcash",
+  "authors": [
+    "BitPay, Inc."
+  ],
+  "description": "BIP70 Payment Protocol support for bitcore",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "bitcoin",
+    "zelcash",
+    "bitcore",
+    "btc",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "CONTRIBUTING.md",
+    "gulpfile.js",
+    "lib",
+    "index.js",
+    "karma.conf.js",
+    "npm-shrinkwrap.json",
+    "test"
+  ]
+}
